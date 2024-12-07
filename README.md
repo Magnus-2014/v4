@@ -56,3 +56,5 @@ Or simply run the `start.sh` file
 
 ### Commercial Use and Licensing
 While this project is licensed under the AGPL, I (fowntain) retain the right to use, modify, and distribute the software for commercial purposes, including making proprietary changes without the obligation to release the source code. All other users must still comply with the AGPL terms.
+
+[![Deploy to Fastly](https://deploy.edgecompute.app/button)](https://deploy.edgecompute.app/deploy)
