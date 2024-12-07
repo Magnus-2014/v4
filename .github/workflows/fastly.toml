@@ -1,0 +1,9 @@
+manifest_version = 3
+name = "v4"
+description = "idk"
+authors = ["someone"]
+language = "js"
+service_id = "Jut7X0BktRssnrqC2voOe5"
+
+[scripts]
+build = "npm install && node index.js"
