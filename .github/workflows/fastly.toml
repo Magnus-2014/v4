@@ -1,9 +1,8 @@
-manifest_version = 3
-name = "v4"
-description = "idk"
-authors = ["someone"]
-language = "js"
-service_id = "Jut7X0BktRssnrqC2voOe5"
+[setup.backends."v4"]
+description = "v4"
+address = "hiimslimshady.edu"
+port = 443
 
-[scripts]
-build = "npm install && node index.js"
+[setup.config_stores."weather_auth".items.key]
+description = "API token for openweathermap.org"
+input_type = "string"
